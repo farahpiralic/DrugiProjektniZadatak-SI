@@ -1,0 +1,55 @@
+.div1{
+ display: flex;
+ padding-left: 30px;
+ font-size: 13px;
+ padding-top: 10px;
+}
+.li{
+    display: flex;
+    display: inline-block;
+    padding-right: 40px;
+}
+
+.div2{
+    display: flex;
+    color: rgb(68, 67, 67);
+}
+.div3{
+    display: inline-block;
+    display: flex;
+}
+.div4{
+    display: flex;
+    height: 260px;
+    width: 850px;
+    background-color: #009edb;
+    padding-top: 60px;
+    padding-left: 50px;
+    color: white;
+}
+
+.div5{
+    display: flex;
+}
+.div6{
+    display: flex;
+    background-color:rgb(233, 231, 231) ;
+    border-top: #009edb solid 2px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.div7{
+    display: flex;
+    background-color:rgb(233, 231, 231) ;
+}
+
+.div8{
+    display: flex;
+    background-color:rgb(233, 231, 231) ;
+    border-top:rgb(68, 67, 67) solid 1px;
+}.div9{
+    display: flex;
+}
+.div10{
+    display: flex;
+}
